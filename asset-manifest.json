@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/anuragastech/Login-signUp-react/static/css/main.b1fe7361.css",
-    "main.js": "/anuragastech/Login-signUp-react/static/js/main.d98936bb.js",
-    "index.html": "/anuragastech/Login-signUp-react/index.html",
-    "main.b1fe7361.css.map": "/anuragastech/Login-signUp-react/static/css/main.b1fe7361.css.map",
-    "main.d98936bb.js.map": "/anuragastech/Login-signUp-react/static/js/main.d98936bb.js.map"
+    "main.css": "/Login-signUp-react/static/css/main.b1fe7361.css",
+    "main.js": "/Login-signUp-react/static/js/main.d98936bb.js",
+    "index.html": "/Login-signUp-react/index.html",
+    "main.b1fe7361.css.map": "/Login-signUp-react/static/css/main.b1fe7361.css.map",
+    "main.d98936bb.js.map": "/Login-signUp-react/static/js/main.d98936bb.js.map"
   },
   "entrypoints": [
     "static/css/main.b1fe7361.css",
