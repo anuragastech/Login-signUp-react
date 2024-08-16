@@ -4,11 +4,12 @@ import { Link } from 'react-router-dom';
 
 const Login = () => {
     return (
-        
+
         <div className='login-page'>
             <div className='login-container'>
                 <h1>Login</h1>
                 <form>
+                    
                   
                     <div className='input-group'>
                         <label htmlFor='email'>Email</label>
